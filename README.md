@@ -19,10 +19,24 @@
 - **Python**: The core language for the application.
 - **Dotenv**: For managing environment variables securely.
 
-## Installation
+## Screenshots
 
-Follow these steps to set up **Agent_Anderson** on your local machine:
+<div align="center">
+  <img src="image1.jpg" alt="Screenshot 1" width="40%" style="margin:10px;">
+  <img src="image2.jpg" alt="Screenshot 2" width="40%" style="margin:10px;">
+</div>
 
-### 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/Agent_Anderson.git
+---
+
+## Demo Video
+
+Watch the demo video to see **Agent_Anderson** in action:
+
+<div align="center">
+  <a href="https://youtube.com/shorts/yourvideoid?feature=share" target="_blank">
+    <img src="https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo">
+  </a>
+</div>
+
+---
+
