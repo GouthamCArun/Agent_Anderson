@@ -22,8 +22,8 @@
 ## Screenshots
 
 <div align="center">
-  <img src="image1.jpg" alt="Screenshot 1" width="40%" style="margin:10px;">
-  <img src="image2.jpg" alt="Screenshot 2" width="40%" style="margin:10px;">
+  <img src="Screenshot1.png" alt="Screenshot 1" width="40%" style="margin:10px;">
+  <img src="Screenshot2.png" alt="Screenshot 2" width="40%" style="margin:10px;">
 </div>
 
 ---
